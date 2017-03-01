@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SIPCaller</string>
+    <string name="Call">Call</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_pass">Password</string>
+    <string name="hint_domain">Domain</string>
+    <string name="hint_server">SIP URI</string>
+</resources>
